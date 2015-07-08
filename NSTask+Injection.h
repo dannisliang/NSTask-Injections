@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "NSTask.h"
 
 @interface NSTask (Injection)
 
